@@ -1,5 +1,5 @@
 # Nopium
-Roblox Bedwars | Nopium Executor
+Roblox Bedwars | Nopium Executor - By Nope#3473
 
 - Since I have no fucking idea on how to add this stuff to Vapes CustomModules  I decided to just create a Script to do it for me
 - You still need the Custom Config -> https://mega.nz/folder/0F5yACwZ#jg7s-DBSjuug1ghLhigcxw
