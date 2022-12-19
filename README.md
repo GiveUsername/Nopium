@@ -1,4 +1,4 @@
-# Nopium
+# Nopium v1.2
 Roblox Bedwars | Nopium Config - By Nope#3473
 - YT: https://www.youtube.com/channel/UCipWKkR9V_DIE6w5YS_DbBA
 - Since I have no fucking idea on how to add this stuff to Vapes CustomModules  I decided to just create a Script to do it for me
