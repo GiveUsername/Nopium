@@ -5,8 +5,8 @@ Roblox Bedwars | Nopium Executor
 - You still need the Custom Config -> https://mega.nz/folder/0F5yACwZ#jg7s-DBSjuug1ghLhigcxw
 ------------------------------------------------------------------------------------------
 
-Current Ver: 1.2
-Current Loadstring:
+- Current Ver: 1.2
+- Current Loadstring:
 
 Custom Features:
 
