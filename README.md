@@ -10,4 +10,4 @@ Roblox Bedwars | Nopium Executor
 
 Custom Features:
 
- - Infinite Fly (Found in Blatant)
+ - Infinite Jump (Found in Blatant)
