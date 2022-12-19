@@ -8,6 +8,10 @@ Roblox Bedwars | Nopium Executor
 - Current Ver: 1.2
 - Current Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/Nopium.lua", true))()
 
+Curtrent Problems:
+
+- W
+
 Custom Features:
 
  - Infinite Jump (Found in Blatant)
