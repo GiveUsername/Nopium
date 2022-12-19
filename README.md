@@ -6,7 +6,7 @@ Roblox Bedwars | Nopium Config - By Nope#3473
 ------------------------------------------------------------------------------------------
 
 - Current Ver: 1.2
-- Current Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/Nopium.lua", true))()
+- Current Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/NopiumLOADER.lua", true))()
 
 Current Problems:
 
