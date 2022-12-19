@@ -15,7 +15,7 @@ Current Problems:
 
 To-Be-Added Features:
 
- - Auto Bed-Breaker
+ - Auto Bed-Breaker (Ver 1.2.5)
 
 Custom Features:
 
