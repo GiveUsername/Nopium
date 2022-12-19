@@ -6,7 +6,7 @@ Roblox Bedwars | Nopium Executor
 ------------------------------------------------------------------------------------------
 
 - Current Ver: 1.2
-- Current Loadstring:
+- Current Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/Nopium.lua", true))()
 
 Custom Features:
 
