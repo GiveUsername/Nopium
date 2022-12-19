@@ -8,10 +8,12 @@ Roblox Bedwars | Nopium Config - By Nope#3473
 
 To-Be-Added Features:
 
- - Auto Bed-Breaker (Ver 1.2.5)
+ - Auto Bed-Breaker (Ver 1.2.2)
  - Among other things
 
 Custom Features:
 
  - Infinite Jump (Found in Blatant)
  - Chill Lighting (Found in Render)
+ - Chat Chrasher (Found in Utility)
+ - Chast Position (Found in Render)
