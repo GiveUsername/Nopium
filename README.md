@@ -10,7 +10,7 @@ Roblox Bedwars | Nopium Executor
 
 Curtrent Problems:
 
-- W
+- Seperate script means you have to Un-Inject and Re-Execute the Nopium Script because it wont load Custom Features. If someone knows how to put this shit into a CustomModule .lua file please help me
 
 Custom Features:
 
