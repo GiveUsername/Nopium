@@ -12,6 +12,10 @@ Current Problems:
 
 - Seperate script means you have to Un-Inject and Re-Execute the Nopium Script because it wont load Custom Features. If someone knows how to put this shit into a CustomModule .lua file please help me
 
+To-Be-Added Features:
+
+ - AutoWin
+
 Custom Features:
 
  - Infinite Jump (Found in Blatant)
