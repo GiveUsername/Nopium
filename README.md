@@ -8,7 +8,7 @@ Roblox Bedwars | Nopium Executor
 - Current Ver: 1.2
 - Current Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/Nopium.lua", true))()
 
-Curtrent Problems:
+Current Problems:
 
 - Seperate script means you have to Un-Inject and Re-Execute the Nopium Script because it wont load Custom Features. If someone knows how to put this shit into a CustomModule .lua file please help me
 
