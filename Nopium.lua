@@ -41,9 +41,9 @@ function checklagback()
 	return isnetworkowner(hrp)
 end
 
-GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Text = "clown shit | v1.0.1"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "clown shit custom| v1.0.1"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "FUCKING CLOWN SHIT GOODENESS| v1.0.1"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Text = "Nopium | v1.2"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "Nopium | v1.2"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "Nopium v1.2"
 GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Position = UDim2.new(1, -175 - 20, 1, -25)
 infonotify("Nopium v1.2", "Nopium Loaded!", 5)
 
