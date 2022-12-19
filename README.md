@@ -14,6 +14,6 @@ To-Be-Added Features:
 Custom Features:
 
  - Infinite Jump (Found in Blatant)
- - Chill Lighting (Found in Render)
+ - Chill Lighting (Found in Render) (Cope Dashy)
  - Chat Crasher (Found in Utility)
  - Chat Position (Found in Render)
