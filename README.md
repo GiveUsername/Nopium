@@ -16,4 +16,4 @@ Custom Features:
  - Infinite Jump (Found in Blatant)
  - Chill Lighting (Found in Render)
  - Chat Crasher (Found in Utility)
- - Chast Position (Found in Render)
+ - Chat Position (Found in Render)
