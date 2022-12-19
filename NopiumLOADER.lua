@@ -1,6 +1,8 @@
 -- You will need to Un-Inject and Re-Inject Vape for Custom Modules to load after each game
 -- This is due to me being a fucking dumbass and not knowing how to put shit in CustomModules correctly
 
+-- CURRENT VER: 1.2
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GiveUsername/Nopium/main/Nopium.lua", true))()
 
 local GuiLibrary = shared.GuiLibrary
