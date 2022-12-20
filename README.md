@@ -8,8 +8,7 @@ Roblox Bedwars | Nopium Config - By Nope#3473
 
 To-Be-Added Features:
 
- - Auto Bed-Breaker (Ver 1.2.2)
- - Among other things
+ - MultiAura (Coming Out v1.2.2) (Currently Nopium Private Only) (Makes Attack Speed 1.5x Faster)
 
 Custom Features:
 
