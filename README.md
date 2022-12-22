@@ -12,12 +12,13 @@ Roblox Bedwars | Nopium Config - By Nope#3473
 
 To-Be-Added Features:
 
- - MultiAura (Coming Out v1.2.2) ✝️ ⭐ 🎇
- - HeatSeeker (Coming out 1.3) ✝️ ⭐ 🎇
+N/A Fornow
+1.2.3 & 1.2.4 = Slight "Patch" Updates
+1.2.5 = Mini Update (1 Feature)
+1.2.5 -> 1.3
 
 Custom Features:
 
  - Infinite Jump (Found in Blatant) 👑
  - Chill Lighting (Found in Render) (Cope Dashy) 👑
- - Chat Crasher (Found in Utility) 👑
- - Chat Position (Found in Render) 👑
+ - BedTP (Found in Blatant) (ONLY WORKS TWICE)
