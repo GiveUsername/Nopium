@@ -12,7 +12,7 @@ Roblox Bedwars | Nopium Config - By Nope#3473
 
 To-Be-Added Features:
 
-N/A Fornow
+N/A For Now
 - 1.2.3 & 1.2.4 = Slight "Patch" Updates
 - 1.2.5 = Mini Update (1 Feature)
 - 1.2.5 -> 1.3
